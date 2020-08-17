@@ -2,7 +2,7 @@
 title: "Terrible"
 output: 
   learnr::tutorial:
-    css: css/custom.css
+
 runtime: shiny_prerendered
 ---
 
